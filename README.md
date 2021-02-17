@@ -28,3 +28,5 @@ Generate a Component  with an appropriate name that will eventually display a ph
 
 
 API---> https://unsplash.com/developers
+get a random photo
+https://unsplash.com/documentation#get-a-random-photo
