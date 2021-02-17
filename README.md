@@ -104,3 +104,20 @@ When the component is about to show on the screen, call the getPhoto method to m
 Inspect the request in your network request tab and ensure that you see some data featched
  */
 
+
+
+
+
+
+/* Next Step
+
+Add a new propety to the class to store url of the featched image
+
+Store URL from the responce to that propety
+
+Add in a img element in the component templete
+
+Use the property binding symtax to set the 'src' property of the image to the propety you crated in the step #1
+
+
+ */
