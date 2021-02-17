@@ -16,3 +16,11 @@ another service---> request to api
 
 
 some api to fetch random photos
+
+
+
+Generate a Service with an appropriate name that will eventually fetch a Photo.
+
+
+
+Generate a Component  with an appropriate name that will eventually display a photo + a button
