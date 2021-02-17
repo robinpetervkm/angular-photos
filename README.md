@@ -121,3 +121,21 @@ Use the property binding symtax to set the 'src' property of the image to the pr
 
 
  */
+
+
+
+
+
+/* Next Step
+
+Add  a button to the templete
+
+Add an event handler to the button that will run a method from our component
+
+In that method, make sure you call your service again to fetch another photo and update the property storing image Url
+
+
+ */
+
+
+First call some time null value for the url that is managed using ngIf Structral directive last step
